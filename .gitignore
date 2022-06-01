@@ -1,0 +1,70 @@
+
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+bin/Debug/Assembly-CSharp-firstpass.dll
+bin/Debug/Assembly-CSharp.dll
+bin/Debug/Cinemachine.dll
+bin/Debug/HtuSegaCustomAttributeAccessor.dll
+bin/Debug/Iced.dll
+bin/Debug/Il2CppMono.Security.dll
+bin/Debug/Il2Cppmscorlib.dll
+bin/Debug/Il2CppSystem.Configuration.dll
+bin/Debug/Il2CppSystem.Core.dll
+bin/Debug/Il2CppSystem.dll
+bin/Debug/Il2CppSystem.Runtime.Serialization.dll
+bin/Debug/Il2CppSystem.Xml.dll
+bin/Debug/Il2CppSystem.Xml.Linq.dll
+bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+bin/Debug/Mono.Posix.dll
+bin/Debug/Mono.Security.dll
+bin/Debug/netstandard.dll
+bin/Debug/UI Enhancements.dll
+bin/Debug/UI Enhancements.pdb
+bin/Debug/UnhollowerBaseLib.dll
+bin/Debug/UnhollowerRuntimeLib.dll
+bin/Debug/Unity.InputSystem.dll
+bin/Debug/Unity.Mathematics.dll
+bin/Debug/Unity.Postprocessing.Runtime.dll
+bin/Debug/Unity.TextMeshPro.dll
+bin/Debug/Unity.Timeline.dll
+bin/Debug/UnityEngine.AIModule.dll
+bin/Debug/UnityEngine.AndroidJNIModule.dll
+bin/Debug/UnityEngine.AnimationModule.dll
+bin/Debug/UnityEngine.AssetBundleModule.dll
+bin/Debug/UnityEngine.AudioModule.dll
+bin/Debug/UnityEngine.CoreModule.dll
+bin/Debug/UnityEngine.DirectorModule.dll
+bin/Debug/UnityEngine.dll
+bin/Debug/UnityEngine.GridModule.dll
+bin/Debug/UnityEngine.ImageConversionModule.dll
+bin/Debug/UnityEngine.IMGUIModule.dll
+bin/Debug/UnityEngine.InputLegacyModule.dll
+bin/Debug/UnityEngine.InputModule.dll
+bin/Debug/UnityEngine.JSONSerializeModule.dll
+bin/Debug/UnityEngine.ParticleSystemModule.dll
+bin/Debug/UnityEngine.PerformanceReportingModule.dll
+bin/Debug/UnityEngine.Physics2DModule.dll
+bin/Debug/UnityEngine.PhysicsModule.dll
+bin/Debug/UnityEngine.SharedInternalsModule.dll
+bin/Debug/UnityEngine.SpriteShapeModule.dll
+bin/Debug/UnityEngine.SubsystemsModule.dll
+bin/Debug/UnityEngine.TerrainModule.dll
+bin/Debug/UnityEngine.TextCoreModule.dll
+bin/Debug/UnityEngine.TextRenderingModule.dll
+bin/Debug/UnityEngine.TilemapModule.dll
+bin/Debug/UnityEngine.UI.dll
+bin/Debug/UnityEngine.UIElementsNativeModule.dll
+bin/Debug/UnityEngine.UIModule.dll
+bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+bin/Debug/UnityEngine.UnityWebRequestModule.dll
+bin/Debug/UnityEngine.VFXModule.dll
+bin/Debug/UnityEngine.VideoModule.dll
+bin/Debug/UnityEngine.VRModule.dll
+bin/Debug/UnityEngine.XRModule.dll
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Debug/_IsIncrementalBuild
+obj/Debug/UI Enhancements.csproj.AssemblyReference.cache
+obj/Debug/UI Enhancements.csproj.CopyComplete
+obj/Debug/UI Enhancements.csproj.CoreCompileInputs.cache
+obj/Debug/UI Enhancements.csproj.FileListAbsolute.txt
+obj/Debug/UI Enhancements.dll
+obj/Debug/UI Enhancements.pdb

@@ -1,0 +1,12 @@
+{
+    "RankingChallengePositionX": {
+      "Value": 365,
+      "Description": "Changes the X Position of the Ranking Challenge Timer. Can be adjusted, but 365 is recommended.",
+      "Category": "HUD Adjustment"
+    },
+    "RankingChallengePositionY": {
+      "Value": 860,
+      "Description": "Changes the Y Position of the Ranking Challenge Timer. Can be adjusted, but 860 is recommended.",
+      "Category": "HUD Adjustment"
+    }
+  }
