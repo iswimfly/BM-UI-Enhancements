@@ -213,12 +213,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HUD Adjuster\main.cs" />
+    <Compile Include="main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="HUD Adjuster\config.json" />
-    <None Include="HUD Adjuster\mod.json" />
+    <None Include="config.json" />
+    <None Include="mod.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
