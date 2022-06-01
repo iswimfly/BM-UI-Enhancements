@@ -28,7 +28,7 @@ namespace MoveRankingTimer
         private static GameObject timer = null;
         private static GameObject pausebg = null;
         private static GameObject pausechara = null;
-
+        private static GameObject blackbg = null;
         public static void OnModUpdate()
         {
             // change the position
@@ -41,17 +41,23 @@ namespace MoveRankingTimer
             {
                 timer = GameObject.Find("c_time_attack_0");
             }
+            // Remove the Yellow BG and add black tint
             if (pausebg != null)
             {
-                pausebg.GetComponent<Image>().GetComponent<Behaviour>().enabled = PauseBackground;
+                pausebg.SetActive(false);
+                blackbg.GetComponent<Image>().GetComponent<Graphic>().color = new Color(0, 0, 0, (float)0.75);
+                blackbg.GetComponent<RectTransform>().localScale = new Vector3(1, 40, 0);
             }
             else
             {
                 pausebg = GameObject.Find("pause_bg");
+                blackbg = GameObject.Find("bg_00_00");
+
             }
+            // Remove Character Portrait
             if (pausechara != null)
             {
-                pausechara.GetComponent<Image>().GetComponent<Behaviour>().enabled = PauseCharacter;
+                pausechara.SetActive(false);
             }
             else
             {
