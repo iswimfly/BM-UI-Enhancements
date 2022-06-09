@@ -1,9 +1,8 @@
 # BM-UI-Enhancements
-A mod for Super Monkey Ball Banana Mania adding various QoL changes.
 
 This mod requires [`Banana Mod Manager`](https://github.com/MorsGames/BananaModManager).
 
-UI Enhancements adds a few minor HUD Tweaks and quality of life changes to Super Monkey Ball Banana Mania.
+UI Enhancements adds a few minor HUD Tweaks and quality of life changes to Super Monkey Ball Banana Mania!
 
 Current Features include:
  - Moving the Ranking Timer
