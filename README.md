@@ -12,4 +12,4 @@ Current Features include:
 
 Feel free to add suggestions under Issues, or contribute directly with Pull Requests!
 
-You can find me in the [`Banana Mania Modding Discord`](https://discord.gg/dbNTKSU2Rt)!
+You can find me in the [Banana Mania Modding Discord](https://discord.gg/dbNTKSU2Rt)!
